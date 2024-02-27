@@ -127,14 +127,13 @@ Ozone.month.2019 <-
   ylab(expression(paste('Concentration (',mu,'g/',m^3,')')))+
   ggtitle("Monthly Ozone concentrations - 2019")
 ```
-```{r, echo=F, warning=FALSE, fig.align='left', fig.width=6, fig.height=4, fig.cap="2018 Ozone values by month"}
+```{r, echo=F, warning=FALSE, fig.align='left', fig.height=3, fig.width=6, fig.cap="2018 Ozone values by month"}
 Ozone.month.2018
 ```
-```{r, echo=F, warning=FALSE, fig.align='left', fig.width=6, fig.height=4, fig.cap="2019 Ozone values by month"}
+```{r, echo=F, warning=FALSE, fig.align='left', fig.height=3, fig.width=6, fig.cap="2019 Ozone values by month"}
 Ozone.month.2019
 ```
 
----
 \newpage
 
 ## Task 5: Knit and submit.
@@ -142,3 +141,4 @@ Add a table of contents and list of figures to your document and knit to a PDF. 
 
 ## Git Repository
 
+https://github.com/Hopefullyxr/EDA_Spring2024.git
